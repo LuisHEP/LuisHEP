@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Luis Paladino</h1>
-<h3 align="center">Desenvolvedor front-end focado em back-end</h3>
+<h3 align="center">Desenvolvedor Full Stack focado em back-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luishep&label=Profile%20views&color=0e75b6&style=flat" alt="luishep" /> </p>
 
